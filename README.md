@@ -79,23 +79,6 @@ Link para os dados: [https://drive.google.com/file/d/1Rx0cWwwSlfmnl_bd334BKj8KHt
 - **111**: Clientes que Precisam de Atenção
 - Outras combinações indicam níveis intermediários
 
-## 🚀 Como Executar
-
-1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-```
-
-2. Instale as dependências
-```bash
-pip install -r requirements.txt
-```
-
-3. Execute o script principal
-```bash
-python rfm_analysis.py
-```
-
 ## 📁 Estrutura do Projeto
 ```
 .
