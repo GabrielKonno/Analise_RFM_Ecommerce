@@ -3,6 +3,8 @@
 ## 💡 Sobre o Projeto
 Este projeto implementa uma análise completa de dados e segmentação de clientes utilizando a metodologia RFM (Recency, Frequency, Monetary). O objetivo é identificar padrões de comportamento dos clientes e criar segmentos para ações de marketing personalizadas, permitindo uma abordagem mais estratégica no relacionamento com clientes.
 
+Link para os dados: [https://drive.google.com/file/d/1Rx0cWwwSlfmnl_bd334BKj8KHtD3ylrN/view?usp=drive_link]
+
 ## 🎯 Objetivos do Projeto
 1. Limpeza e pré-processamento de dados:
 
